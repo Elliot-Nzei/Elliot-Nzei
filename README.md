@@ -21,8 +21,13 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,react,nodejs,tailwind,docker,aws,git,linux,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,bootstrap,tailwind,docker,git,github,linux,bash,aws,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,nodejs,express,react,figma,vercel" />
+</p>
+
 
 ---
 
